@@ -182,7 +182,6 @@ struct ContentView: View {
         }
     }
     
-    
     func convertTime() {
         let inputInSeconds: Double
         switch inputUnit {
